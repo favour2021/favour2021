@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @favour2021
-- 👀 I’m interested in frontend and backend
-- 🌱 I’m currently learning node.js
+- 👀
+-
 - 💞️ I’m looking to collaborate on any project am available
 - 📫 How to reach me favourkieniamachree@gmail.com
 

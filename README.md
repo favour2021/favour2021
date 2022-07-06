@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @favour2021
-- 👀
+- 👀React,Node,Next.js...
 -
 - 💞️ I’m looking to collaborate on any project am available
 - 📫 How to reach me favourkieniamachree@gmail.com
